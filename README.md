@@ -48,7 +48,3 @@ Este é um programa Java simples que auxilia no gerenciamento de projetos, calcu
 * **Explique os conceitos:** Se necessário, explique os conceitos de IDC e IDP de forma mais detalhada.
 * **Considere o contexto:** Adapte o README.md ao contexto específico do seu projeto.
 
-**Este README.md fornece uma base sólida para documentar sua calculadora de gerenciamento de projetos. Personalize-o para atender às suas necessidades específicas.**
-
-**Gostaria de adicionar mais alguma seção ou detalhe?**
-
