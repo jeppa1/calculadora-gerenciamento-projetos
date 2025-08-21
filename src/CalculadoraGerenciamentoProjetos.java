@@ -6,8 +6,8 @@ public class CalculadoraGerenciamentoProjetos {
             
             try {
                 System.out.println("GERENCIAMENTO DE PROJETOS");
-                System.out.println("Aluno: Jadson Chagas");
-                System.out.println("Professor: Raimundo Nonato");
+                System.out.println("Discente: Jadson Chagas");
+                System.out.println("Docente: Raimundo Nonato");
     
                 // Entrada de dados
                 System.out.println("Digite o valor do Orçamento no término: ");
